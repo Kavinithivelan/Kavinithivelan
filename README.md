@@ -11,8 +11,8 @@ Electrical & Electronics Engineering student building expertise in
 - Power system analysis (load flow, fault analysis)
 - Solar PV system design
 
-#### 🛠️ Tools I'm building skills in
-MATLAB/Simulink · Python · ETAP (upcoming) · PVsyst (upcoming)
+#### 🛠️ Tools I know
+MATLAB (completed MathWorks Onramp) · Python (basic)
 
 #### 📌 Featured projects
 _(will update as projects are completed)_
